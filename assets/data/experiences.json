@@ -1,0 +1,862 @@
+{
+    "title": "Read from our curated on-campus archives",
+    "subtitle": "Always walk through life as if you have something new to learn, and you will",
+    "experiences": [
+        {
+            "name": "Akanksha Chandna",
+            "image": "https://quicksort.netlify.com/images/akanksha.png",
+            "position": "Goldman Sachs SDE FTE",
+            "no": "#myModal17",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "This was the online round which consisted of 10 mcqs (technical and aptitude), 3 coding questions of medium to hard level and 2 general essay questions which were required to be solved in 2 hours."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "This was the first interview round. It began with the question “ Tell me about yourself “.  He told me to brief my resume and asked few things from it. Then he asked two puzzles and a coding question of string which was an easy one. "
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "This round was technical cum HR round. He asked few concepts from arrays and linked list. He gave me  a coding question of subtracting two linked lists which I was able to code well. Then I was asked two puzzles. One was finding the number of zeroes in n factorial. Then he asked me few HR questions like why do I want to join GS and why should they hire me.  He also asked me about my 2 months internship at Western Digital. "
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "This was the last interview round. In this round the interviewer asked three coding questions related to arrays, hashing and backtracking. I was able to solve all the three questions and the interviewer was convinced."
+                }
+            ]
+        },
+        {
+            "name": "Diksha Kumari",
+            "image": "https://quicksort.netlify.com/images/Uber.png",
+            "position": "Uber SDE Intern",
+            "no": "#myModal18",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 1 was online coding test and there were 3 questions primarily based on graphs."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 2 was Technical interview in which I was asked only question for which I had to provide recursive as well as dp pseudo code. "
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 3 was second Technical Interview in which I had to code a given problem within 40 minutes. The problem was majorly dependent on identifying the right data structure to be used for a given problem."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 4 comprised of 45 minutes long HR Interview round and questions based on resume were asked."
+                }
+            ]
+        },
+        {
+            "name": "Kiran Chawla",
+            "image": "https://quicksort.netlify.com/images/optum.png",
+            "position": "Optum Intern",
+            "no": "#myModal19",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "The coding test included simple coding questions and Aptitude round. Both the tests had time limits. The most you solve the better you scored."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 2 was the interview round. The main focus of interviewers was on the basic OOP and DBMS concepts along with the projects. He also asked me about OS, but I said I'm weak in that subject."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "It was HR Round. Ones who reached to this round, were almost selected and the HR just told about the work culture and locations of the company."
+                }
+            ]
+        },
+        {
+            "name": "Ishneet Kaur Ahuja",
+            "image": "https://quicksort.netlify.com/images/ishneet.png",
+            "position": "Expedia Group SDE Intern",
+            "no": "#myModal20",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "The first round was an online coding round on Hackerrank. There were two coding questions - One was LeetCode Easy, other was a LeetCode Medium Level. There were 15 MCQs based on Core CS Subjects following these. The Coding Questions were different for everyone. Time taken to complete the test was taken into consideration. Total allotted time-1.5 hours"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Second round was a panel interview. I had two interviewers. The round started with some discussion on Time and Space Complexity. There was a detailed discussion on various core CS algorithms. Object Oriented Programming concepts were asked quite in detail. This was followed by a coding question.  The round ended with me asking the interviewers some questions. It was an elimination round."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "The second interview began with discussion on basic DBMS concepts. This was followed by two Coding questions- One on Linked Lists. The other was an Array question. It was slightly tricky. I don’t remember the exact question now :). There was only one interviewer. He was quite friendly and patient. This was again an elimination round."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "The Final Round was the HR Round. But it was more oriented towards technical questions. There was an extensively detailed discussion again on OOP concepts specifically the Inheritance and Virtual functions part. (Make sure you have OOP concepts on your tips). There was one system design question as well. The interviewer wasn’t interested in the coding part. Just the approach of designing a system. He wanted to check what all constraints you keep in your mind. Then there was a discussion on the projects I had mentioned in my Resume. This interview was the longest. Got selected finally :)."
+                }
+            ]
+        },
+        {
+            "name": "Anonymous",
+            "image": "https://quicksort.netlify.com/images/citrix.png",
+            "position": "Citric R&D SDE Intern",
+            "no": "#myModal21",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "It was an online coding test.  The test consisted of 2 coding questions and 10-15 MCQs.  Majority of MCQ were aptitude based with some from networking, OS and DBMS.  1 coding question was based on heaps while the other one was from strings(It was pretty tough and I don't think anyone solved it)"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "This was an tech+hr interview round.  I was asked regarding every point written on my resume be it related to technical or co-curriculum activities done during college time. For technical part first I was asked my favorite DS to which I answered Linked List. Interviewer asked very basic question related to circular LL.  Then he mived on to my project. He asked me to write functions with modified features he wanted to add. I was also asked if there were any improvement I want to add and then code them. He made sure that I understood the project and not just copied the code from net by giving me many situations. There were regular HR question : what do you like about our company,  why do want to join Citrix. In the end I was asked if I had any questions for him. The interviewer was very interactive and patient l.  He listened to me carefully and gave time time when I needed to think. One thing was he kept on jumping from one topic to other and didn't go into detail like do you know DP,  what topics you studied in OS,  ever tried ethical hacking."
+                }
+            ]
+        },
+        {
+            "name": "Disha Goyal",
+            "image": "https://quicksort.netlify.com/images/disha.png",
+            "position": "Flipkart SDE Intern",
+            "no": "#myModal22",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "The first round was an online coding test. Pattern- There were 3 coding questions of easy to medium difficulty level. One question was based on HashMaps and the other questions were also data structures oriented. Result- Students who completed 2 or more questions were called for the interviews. And the students who completed 1 question but could also pass some test cases of the 2nd question were shortlisted in the waitlist category for the interviews. The passing criteria was relative, so to be on a safer side always try to complete 2 questions at least. Around 25 students were shortlisted for the interviews, out of which 10 were in the waitlist. Tips- Solving problems based on Data Structures and Algorithms is inevitable. Apart from that, learn to completely debug your code yourself, keeping in mind the edge cases because most of the test cases are hidden in online coding rounds."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": " The second round was a technical interview. It was an eliminating round. Pattern- The students in the mainlist were interviewed first and then the waitlisted students were also interviewed. The interview lasted for about 1 hour. There were 2 questions asked, completely based on DS and Algorithms. The interview started with a brief introduction. The first question was similar to Minimum Platforms (https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/). The interviewer was friendly and gave me enough time to come up with an approach. He pointed out a few mistakes and asked me to try again. I was able to come up with a better solution and was then asked to write a pseudocode for the same (using pen and paper). The second question was to generate stepping numbers (https://www.geeksforgeeks.org/stepping-numbers/). I came up with a mathematical solution using some if-else conditions. The interviewer was happy but he asked me to use a data structure to simplify the solution. I couldn't think in that direction. Since time was running out, we had to end the interview. Result- Around 10 students moved to the next technical interview. Tips- Don't be nervous because it will stop you from performing to the best of your abilities. Relax and think of the best possible solution you can up with. Even if you are wrong, the interviewer will learn something about your thinking process and that can be a huge plus point."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "The final round was an HR interview. It ended in 15-20 minutes. Pattern- A brief introduction was followed by a few situational questions were asked to understand my personality. Since I said I like Maths, I was given a simple differentiation based question to solve. I couldn't solve it completely and asked the interviewer for the solution. There were a lot of times during the interview when I felt I have messed up but I tried to remain as calm as possible which I think helped me get the internship! Result- 4 students were selected for the internship. Tips- Be confident of yourself and your answers. Be thorough with all things in your resume and just be yourself. The HR round is supposed to check if you are a right fit for the company, and if you are faking your personality then the interviewer can easily figure that out."
+                }
+            ]
+        },
+        {
+            "name": "Kritesha",
+            "image": "https://quicksort.netlify.com/images/kritesha.png",
+            "position": "Infoedge SDE Intern",
+            "no": "#myModal23",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 1 was an online test consisting of two sections both of which were mcq's. The first section comprised of logical reasoning, quantitative reasoning type questions. The second section delt with coding oriented mcq's."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "The second round namely the technical round was a face to face interview. Herein I was asked largely 3 main questions all of which required that you explain the algo you are thinking of, out loud and then proceed to write each and every function. Even a missing semicolon was pointed out🙈.\nThe round started with the usual icebreaker questions. The type that help an interviewee feel warm and welcomed.\nSo the first question was to give the algorithm for finding the square root of a number (without the inbuilt function).\nThe second question was that you are given a file and you need to find if a particular word say battle occurs in it or not. So my approach was that while parsing the file we make a tree like structure for storing each word. \nThen the interviewer asked me to modify the program in a way that if we give a word for an input not only do we get the whether the word exists or not but also give all its substring words present in the file as an output. For eg if given a word battle we also would have to return the word bat if it's present in the document. Then they modified the question to finding along with above the frequency of occurrence of each word and subword. All of the above were to be written to the  return 0; command (I tried hard to just get away with just the explaination but the interviewer insisted that it be written to the very end :P).\nThe third question was if I had any questions for them? My reply to the same was an enquiry regarding which technologies did they plan to let their interns dabble into? Also  how did they assign which project goes to which intern and if the interns themselves had any say in the same?"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "The third round was again a technical round. This one was comparatively easier. So here the first question was an enquiry with regards to one's favourite subject and why. Remember here whichever subject you mention they ask in depth questions from the same so only name subjects you are confident of. There were 4 main questions asked in this round. The first question was the gas station problem wherein you need to find a gas station to start your car from such that you are able to come back to the same starting point. The same, explaination and writing the code procedure was followed here. The next few questions  were on tcp/IP and UDP. The third main question was  to design a data structure for a set of elevators for a building also the interviewer explained that I should relate the same with computer networks. I asked whatever doubts I had regarding the question and started off exploring various ways to solve the problem. In the end we agreed on the best solution I could think of at that point in time and I began coding the same. The fourth question was again if I had any questions for the interviewer?"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "This was an HR round. In this round our the there were the interviewers asked us to go through our CV with them. Then they asked about various projects that I had done. The next question was why would I want to go for Info Edge, here I think there motto was to check if you've researched your part about the organisation. Further I was asked questions regarding why I chose IGDTUW with the rank that I had. So I then explained that the placements here were the best which implies that there must be something that this place does differently etc.... Then I was asked questions like where I live and what my hobbies were... The this round again ended in the same fashion as all before with being asked if I had any questions for the interviewers."
+                }
+            ]
+        },
+        {
+            "name": "Samriddhi Arya",
+            "image": "https://quicksort.netlify.com/images/sam.png",
+            "position": "Flipkart SDE Intern ",
+            "no": "#myModal24",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Online coding round\nDuration - 1.5 hours\nThere were 3 coding questions of medium to high difficulty. \nI guess students who could solve 1.5 questions were eligible for the interview round.\nShortlisted - 22"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Technical Interview 1\nDuration - 1.5 hours\nThe interviewer started off by asking questions from my project. \nThe two coding questions asked were:\nFirst question was similar to maximum number of platform problem from geeksforgeeks. \n(https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/). I had already done this question so I was able to give the optimized approach. \nSecond question was to print all numbers within a given range so that the difference of adjacent digits is always 1.(eg. 1234, 1232)\nI had difficulty solving this question but the interviewer was really helpful and I finally came up with a recursive approach. The interviewer looked quite satisfied.\nThe interviewer concluded by asking if I have any questions for him to which I asked him a couple of questions about projects at Flipkart. \nShortlisted - 15 "
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Technical Interview 2\nDuration - 1 hour\nThe interviewer asked me to introduce myself first. \nThen he asked about difference between hashmap, linkedhashmap and treemap in terms of complexity and use. \nThe two coding questions asked were:\nFirst question was a modification of largest sum contiguous subarray. We were asked to print k such non-overlapping subarrays. (https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) \nSecond question was a simple hashmap question.\nThe main aim of interviewer is to see your thinking process even if you are not able to come up with a perfect solution. \nShortlisted - 7"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "HR Interview\nDuration - 10 minutes\nBasic HR questions were asked in this round to introduce myself, why I want to join this company, how I expect a day at flipkart to be etc. Since the office is located in Banglore, so the HR asked if I was ready to relocate and how would I adjust in a new city.\nShortlisted - 4"
+                }
+            ]
+        },
+        {
+            "name": "Isha Gautam",
+            "image": "https://quicksort.netlify.com/images/Isha.jpeg",
+            "position": "Google SDE Intern",
+            "no": "#myModal1",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Resume Based Selection\nNo clarification was given for the basis of the selection."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "1 hour virtual interview: The atmosphere wasn't tensed so I was able to speak confidently. It was pretty chill. Coding was done on Google Docs.\nQuestion: You are given array of 'n' numbers. You can remove elements from the array either from the front or from the rear. You need to make 'k' removals, such that the sum of the elements remaining must be minimised.\n\nAnswer: I first cleared all doubts, and confirmed the constraints, for example data type of the array, and whether invalid input like k>n was allowed or not, etc. I gave my answer in steps so that I gradually reached the most optimal answer.\nFirst: I gave the greedy approach, wherein in each iteration I removed max(first element, last element). However I knew the approach was wrong, I told him the same, and made a test case to prove my point.\nSecond: I gave a recursive approach, wherein I made two calls: one by removing the first element, then by removing the last element. My answer would be the one which gives me the maximum sum. I was asked to code the function for the same. I was asked the complexity (exponential).\nThird: I then had to optimise this. To do so, I applied memoisation, and made the changes to my code. He asked me the complexity of this code, but I got stuck here, so he quickly explained me the right way to calculate the complexity (k*n or k*n*n [I don't remember :p]) in such case.\nFourth: I was asked to optimise further. I was trying to create a 2-d or 3-d space like we do in DP, but I didn't get anywhere. So the interviewer gave me a hint: Is there any property of the remaining elements? Are they continuous or have gaps? So I realised the problem is basically smallest window in array of size (n-k).\nI quickly gave the sliding window solution to this, and coded it. I was asked to code the complexity (linear) of this solution as well.\nThroughout the interview I kept talking, sharing what I was thinking, and in cases where I thought my code won't work, I gave the interviewer a test case for the same which I made right then."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "1 hour virtual interview: Coding was done on Google Docs.\nQuestion: There's a salesman and he has to travel two cities: say Hyderabad and Bangalore. At any given day, in any given city, he has some earning. The salesman can travel between the two cities to maximise his earnings. Our task is: \n1. to find out the maximum earnings possible.\n2. to find the schedule through which maximum earnings can be made.\nIn this too, I started from the least efficient solution and moved to the most optimal. In the beginning I also cleared any doubts, like the data types (integers), as well as if there were any earnings made on the day of travel (no).\nFirst: Greedy solution. Compare the earnings that can be made on the current day in current city, or the next day in next city. We choose the greater one. This would not work in each case. I told him so and made a test case for the same.\nSecond: Recursive approach. Two calls are made, one if we stay in the city, or if we leave this day and go to other city. I coded this and told him the complexity (exponential).\nThird: I was told to optimise above approach, and so I created a storage space and coded the same. I was asked the complexity of this as well, and due to last interview I was able to use the same logical to correctly tell the answer (linear).\nTo do the next part (schedule), there was not much time left to code, so I just explained that in the recursive solution I can create the return type of the function as a class Pair which can contain both the answer string as well as integer, and based on the integer, we can change the answer string."
+                }
+            ]
+        },
+        {
+            "name": "Avani Arora",
+            "image": "https://quicksort.netlify.com/images/Uber.png",
+            "position": "Uber SDE FTE",
+            "no": "#myModal2",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "The first round was an online based round, on Hackerrank with a time limit of 3 hours. There were 3 coding questions , no Objective ones. Out of the 3 questions, 2 were based on graphs and 1 was a combination of Dynamic and Greedy. I was able to solve 2 questions and some test cases of the DP problem.\nOne of the graph question was based on DFS. Moreover no stubs were written by the problem setter, thus I had to spare time to write the code from scratch."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Shortlists from the online round were called for interviews which were held the next day. Round 1 was more of a resume based round. The interviewer tested my knowledge on skills and projects mentioned in my resume. Other than that it also consisted of questions on networking, OOPS, JAVA(since i mentioned it as my preference) and in depth questions on Hashing. This round lasted for 45-50 mins and ended with a few managerial questions."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 3 was a problem solving round and was again F2F . The interviewer asked me 2 questions.\n1. Classical DP problem \"Optimal Structure problem\". After solving it via dp, and giving an O(N²) solution, i was asked another slight variation of the same problem, which with some help , was done in O(N).\n2. The next question was a graph based question . There was a layout drawn by the interviewer and i was supposed to give the number of squares present in it. And i was given a start point.\nThe round lasted for 1 hour and with some help i was able to solve both questions. One important thing is to ask for hints whenever you are stuck. "
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "This was the last round and was also lasted for an hour. The interviewer aaked me to code the solution, unlike rest of the rounds where only pen paper coding was involved. The problem was a data structure design problem. It was based on a customer service centre where incoming customers are attended by customer centres (N). And they were to be processed. I solved it using queues and hashmaps. After a basic design, more analytical queries were made and the system was made more complex.\nThe discussion ended with some basic conversation about Uber and the kind of teams and projects for freshers. Overall it was the most thorough round and the interviewer was very helpful and insightful."
+                }
+            ]
+        },
+        {
+            "name": "Kriti Bindra",
+            "image": "https://quicksort.netlify.com/images/kriti.jpg",
+            "position": "Microsoft SDE Intern",
+            "no": "#myModal3",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 1 was an Online test of 1 hr 30 minutes which we had to take in College.Three Questions were asked with difficulty ranging from Easy to Medium. Each student got different set of questions so luck can also play an important role as to what set of questions you get on that day but if anyone is thorough with their practice then all questions were doable.\nFirst question: Easy dp question\nSecond question: It was the modification of finding the maximum length of a palindromic substring.\nThird Question: Modification of connected components in a graph.\nPassing criteria was maybe submitting 2 questions out 3 correctly or it could have been based on relative performance, nevertheless try answering atleast 2 questions correctly. A total of 75 students moved further to Round 2."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 2 was the group fly round where 2 questions were given and we had to solve them in 45 minutes. It was a pen and paper round and the questions were of Easy-medium level.\nFirst question: Given a column name, find the corresponding column number.\nSecond Question: Next Greater element in an array. Selection criteria was I think solving both the questions correctly and writing comprehensive code with neatness on paper. A total of 20-25 students moved to Round 3."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 3 was the personal interview round. The interviewers were very warm and welcoming. As soon as I got to know the results of Round 2 I had to sit in front of the interviewer for the interview so I was very nervous but he was really sweet and made me very comfortable before asking anything.Then he first introduced himself to break the ice and then asked me to introduce myself. A suggestion would be to answer the questions as if you have already been hired and you've been asked to share your views on the question and how would you approach it so try to have a good discussion with the interviewers to know every aspect of the question and they are very patient so it would not be too difficult to get around once you start. First he asked me about the next greater element question and how did I solve it in the group fly round. Then he asked me about the opposite of the column number question that given column number,find corresponding column name. It was an easy question but I was very nervous so I was struggling initially but was constantly sharing what was going on in my mind. I asked him few hints and then was able to solve it after all. Third question was a Dp question: Count all possible paths from top left to bottom right of a mxn matrix. Since I had done this question before so I was pretty confident in my head that I could solve it easily and explained him my approach. He seemed pretty happy with my answers. We had some more discussions about how companies work and I asked him some questions about the work culture in the company. All in all this interview went well. "
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "Personal interview: Interviewer was a senior employee so at first I was a bit intimidated but I asked him about his day and some other things so that the environment doesn't become tense. He asked me to write code for counting the number of BST's in a binary tree. I was a bit scared because I had not solved this question before but I was still confident that a bit of effort was all that was needed at that time. I was constantly having discussions with him to know all the aspects and assumptions of the question. He was very particular about all the edge cases being taken care of so I was careful about that. The interview went on for over an hour and I was still struggling at this question but didn't lose hope. I knew this wasn't going the way I had expected and at last the interviewer said that he had given me enough hints and I had to solve it on my own now. After much of struggling and itching my head I was able to write the code with a few mistakes.Then he asked me some Operating system questions which were simple but still a little brush up of concepts was needed.Then a few questions were asked from Resume and what all I had done at that time. I knew overall it didn't go well but I didn't lose the spirit."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 5"
+                },
+                {
+                    "type": "para",
+                    "text": "This was the last face to face interview. The interviewer was again really warm and welcoming and I wasn't feeling nervous this time.He wanted to have discussions on the questions and know my approach and he would help me if I get stuck at something. He asked me the famous spiral matrix question but with a twist that given a function and a token saying clock-wise and anti-clockwise my function should print the matrix according to that token but function should have as less if else statements as possible.After some discussion he was happy with my approach. Then he asked the question to be solved recursively if possible and I was able to answer it. After that some questions on operating systems and some general discussions about Microsoft company and I was done with my last interview and had to wait for the results then.\nI was constantly talking to them as if I was working at their company and this was my project and it gave me a different motivation to solve and come up with answer ,so that can be suggestion also on how to be comfortable and confident while talking to any expert or an interviewer. Also interviewers are always ready to help but you need to ask for it only then you can get benefited."
+                }
+            ]
+        },
+        {
+            "name": "Mahima Kataria",
+            "image": "https://quicksort.netlify.com/images/mahima.jpg",
+            "position": "SAP Labs SDE Intern ",
+            "no": "#myModal4",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "It was an online coding test which consisted of 2 coding questions, 1 SQL based query problem and some aptitude mcq questions.\nThe SQL query was of medium tough level and the coding questions were based on basic data structures.\nAptitude mcq questions were easy but time consuming."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "The second round  was actually the first round of the interview, in which basic aptitude skills as well as the knowledge  of any one programming language  was extensively  tested.\nBeing a java programmer, I was asked various java basics including compiling techniques and software  details.Along with this, code for a programming pattern based question was asked."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "The third round, was the second round of the interview in which I was asked to explain logic and write codes of data structure based questions including  graphs and heaps.\nThe interviewer was observing the way you put forward your approach and the confidence with which you do so along with the correctness of logic and code."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "The last round was the HR round in which basic questions about my personality and view point were asked . The key point was that the interviewer was asking the questions very rapidly and was not giving much time to think, so one has to be very responsive and quick in giving well put answers."
+                }
+            ]
+        },
+        {
+            "name": "Priya Gupta",
+            "image": "https://quicksort.netlify.com/images/google.jpg",
+            "position": "Google SDE FTE",
+            "no": "#myModal5",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Resume based shortlisting. There was no telephonic interview."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview 1: A string manipulation question and then a question on its extension. I first gave a brute force approach. I was asked to code the same and then I worked on the optimized solution and coded that."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview 2: A tree based question which required bottom up traversal and DP. Then an extended version that required reverse engineering on the DP solution obtained."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview 3: A linked list based question (similar to k reverse). Was directly asked to code it without discussing. After that, a word problem was given and a recursive function f(n,k) had to be derived mathematically on paper. Then was asked to code the DP solution for the same. Then asked for optimization by reducing the size of DP table."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 5"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview 4: Two questions were asked. One was based on string and the other one was a combination of stack and heaps application question."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 6"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview 5: This was the googlyeness round. This round is conducted to see how fit a candidate is for Google's culture. It is basically a discussion on various general topics like morals and skills etc. Questions like describe an ideal work environment were asked. Various situational examples are asked too."
+                }
+            ]
+        },
+        {
+            "name": "Divya",
+            "image": "https://quicksort.netlify.com/images/Divya.jpg",
+            "position": "Goldman Sachs SDE Intern",
+            "no": "#myModal6",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Online Coding Round: It was a 2 hours coding round on Hackerrank. No IDE was allowed. It consists of 2 coding ques, 15 MCQs and 2 extended questions.\n1st coding ques was about basic math and implementation. Care was taken to enter data in long. I got 4 out of 6 TC correct.\n2nd question was on Dynamic Programming on matrices. It was a bit tricky and took the maximum of my time. I got 3 out of 7 TC correct. \nThe MCQs were based on Probability, Statistics, Calculus, and Algebra from class 11th and 12th syllabus. One could find questions based on Differential equations (substitution and formula-based), integration, etc.\nApart from that, there were coding ques including recursion, function calls manipulation, pointers, and references. One can refer to GFG for practice.\nThe extended ques were about the experience in Technology and to mention one failure and how you overcome it. It was of 120 words each. \nI found a bit of time constraint. The result of the online round came the same day at night. I was selected for further rounds scheduled for the next day."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview Round 1: The interview was held in the college auditorium. The interviewer was very pleasant and composed. He already had my resume which I submitted before hand. He begins with a standard ques of \"Tell me about yourself\". He noted few of points which I mentioned. He asked me 2 physics questions (I mentioned I was subject topper in Physics in Class 12th). One was a bit tricky and other was about Force Body Diagram. I said I didn't remember much of the concepts and he gave me hints to solve. He seems satisfying in the end.\nHe then asked me about my research internship at IIT Delhi. I explained to him the project for about 5-10 minutes. He listened carefully. He seems satisfied. No cross questioning was done.\nHe then saw my resume and asked about my competitive profile. He was impressed and asked me what drives me to competitive programming.\nHe then asked me about a simple ques of spiral display of matrix. ( https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/ )\nI gave the best solution at first. He asked for a corner case that worked. \nHe asked me about my hobbies (cross-questioning was done here) and concluded by asking if I have any questions for him. I asked him about the Machine Learning Project is currently working on in the company. He explained elaborately. \nOverall he was satisfied and ended with greetings."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview Round 2: In 10 minutes, I was called for round 2. It was a short interview.\nThe interviewer started with my resume and asked about the research internship. It again went into a nice discussion. No cross questioning was done. He then jumped to Object-Oriented Programming. He asked the definitions of Inheritance and Polymorphism. He proceeded with asking real-life applications of it. He doesn't seem satisfied with my answer. He himself explained the application. He then ended up asking if I have any questions. I asked about what is expected from the intern in the company. He answered briefly here.\nOverall, It seems to be more like a formality round.\nNo further round was done. \nResult - Selected"
+                }
+            ]
+        },
+        {
+            "name": "Shalini Jaiswal",
+            "image": "https://quicksort.netlify.com/images/shalini.jpg",
+            "position": "LinkedIn SDE Intern ",
+            "no": "#myModal7",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "It was a online coding test. There were 3 coding questions and about 5-6 mcqs l. The first coding question was a simple array question, second was of sliding window and third question was of priority queue."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "The second round was a online interview where we basically had video conferencing with the interviewer on Skype. We had to code two questions on a real time shared code editor. The first question was a graph based question and the second question was to find median of 2 sorted arrays. The interviewer was very helpful."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "It was a normal HR round. We just had a normal on call discussion about our project and interview experience with the HR and all the three shortlisted students after 2nd round were selected. "
+                }
+            ]
+        },
+        {
+            "name": "Anjali Kumari",
+            "image": "https://quicksort.netlify.com/images/mmt.jpg",
+            "position": "MakeMy Trip SDE FTE",
+            "no": "#myModal8",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "15 MCQs and 2 coding questions."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Q-1 Write a program to dispense cash from ATM machine in such a way that the number of notes of different denominations are balanced. (Initially all the notes of different denominations are same)\nQ-2 Implement LRU cache (discussed the solution using multiple data structures)\nQ-3 Parentheses balancing (standard question)\nQ-4 Given a number N, find the largest length between two consecutive 1's in its binary representation. Do this in O(log N) time."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Q-1 Given numbers from 1-100, a game always asks for a random number between 1-100, the returned number should be unique each time, the game will finish at 100th move, when last number is returned. How would you Implement this?\nQ-2 Puzzle (25 horses), it's equivalence with row wise sorted matrix.\nQ-3 Don't remember"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "In this round there were 2 interviewers, one of them asked pure HR questions and the other one asked about projects.\n\n1. 5 adjectives for yourself\n2. Something about you that is not mentioned in your resume.\n3. What would be the first thing any faculty will tell about me?\n\nProject related\n1. Challenges I faced during my mentorship and internship.\n2. How I resolved the changes?\n3. How much time did I take to learn the new technology that I used in my internship?"
+                }
+            ]
+        },
+        {
+            "name": "Dhriti Saini",
+            "image": "https://quicksort.netlify.com/images/Dhriti.jpg",
+            "position": "American Express Intern",
+            "no": "#myModal9",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "First round was online coding round. There were 2 sections- Coding and MCQs.\nThe first section had 2 coding questions. Both sections had separate time limits so solving quickly was the key.There were 50 questions in the MCQ section based on DBMS, OOPS, OS and Aptitude."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "After being shortlisted from the online round, this was a technical interview round. I was asked about my project and other things from my resume. One should be able to explain details of the project thoroughly. Then, I was asked about sorting algorithms. Write code for mergesort and quicksort. And also in-depth time complexity analysis for the algorithms.\nA puzzle was also asked in this round.Each interview round was an elimination round."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "This was the next technical interview round in which i was again asked questions from my resume. Then DBMS concepts and writing complex SQL queries were tested.\nHe gave me a schema and told me to write queries. Also the interviewer asked me difference in results of various join operations.\nThen a coding question was asked and finally a puzzle."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "This was the final HR round where i was asked another puzzle(finding the bag of defective coins) and then general HR questions like why this company etc."
+                }
+            ]
+        },
+        {
+            "name": "Priya Gupta",
+            "image": "https://quicksort.netlify.com/images/Uber.png",
+            "position": "Uber SDE FTE",
+            "no": "#myModal10",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Online test - 3 questions. One was an application of graph's MST. "
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview 1: The first question was based on cities and paths and was an application of topological sort. Then, the interviewer modified the question such that cycles could also be formed in the graph and hence topological sort couldn't be applied. I then used a LIS(longest increasing subsequence) based Dp approach. The second question was a combination of LIS and binary search."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview 2: It was the system design round. I was asked to code up the classes for an airtel store. There were a certain number of desks available and a certain number of customers come up. The system should be able to assign customers to desks in FCFS manner, record the details of customer, store, reviews etc. Concepts like when to use composition and when aggregation etc were checked deeply."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 4"
+                },
+                {
+                    "type": "para",
+                    "text": "Interview 3: A combination of tech + Hr interview. Certain HR questions like why Uber, why you, biggest achievement, biggest failure etc were asked. A brief discussion on projects were done. After that a couple of coding questions on arrays and hashmaps were asked."
+                }
+            ]
+        },
+        {
+            "name": "Priyanka Daryani",
+            "image": "https://quicksort.netlify.com/images/priyanka.jpg",
+            "position": "Codess & Microsoft Step-Intern",
+            "no": "#myModal11",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "Online coding test(codess) for bagging internship at Microsoft in second year.\nQuestions were easier than expected, it was just the matter of passing corner test cases and completing the test in minimum possible time(one of the factors considered for getting shortlisted to next hackathon round).One question i remember was removing duplicates from the string, pretty easy ;). \nAnother one was:Find the depth of paranthesis-((())) has depth 3(()()) has depth 2, ()()() has depth 1. I did it with arrays instead of using stack at that moment, just because the approach with latter didn't strike.\nThere were 2 more questions which were also not difficult (I cannot remember them clearly as it's been almost a year already)"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "After getting shortlisted, 4 of us from IGDTUW campus were invited to MS Hyderabad campus for Codess event and hackathon/Ideathon. We were divided into teams of 6 each.(All 6 were of different colleges), themes were given. We were provided mentors who were MS employees, to evaluate us on the basis of how we contributed in ideation process to prepare a prototype of a product to solve problem in the particular domain chosen. We brainstormed, pitched our idea to the judges and my team got selected in top 4. Don't worry, getting selected in top 4 was not a measure for getting call for internship ;) It was just a mark of appreciation. It was in the hands of the mentor, to pass on our feedback.\nAfter that i got a mail from MS, interned for 8 weeks there and got PIO for 3rd year internship as well. Clearly one of the best experiences i have had till now, is spending those 2 months in MS. I realized my true potential while working among the experts of their domains :)"
+                }
+            ]
+        },
+        {
+            "name": "Anonymous",
+            "image": "https://quicksort.netlify.com/images/morgan.jpg",
+            "position": "Morgan Stanley SDE Intern",
+            "no": "#myModal12",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "The criteria for appearing for Morgan Stanley was 80%and above percentage.\nTheir first round is an online round comprising of 3 sections:\nSection 1 MCQ:This is dedicated to fundamentals of c/c++ oops os and ds.\nSection 2:This had 3 error correction and code completion problems. Aspirants were presented with coding problems that had errors that were to be detected and corrected so that the given problem statement was resolved.It also had 7 mcq problems based on basic mathematics and logical reasoning.\nSection 3:This comprised of three coding questions based on data structuresThe sections were to be solved in order within given time limit Approximately 45 minutes were given for coding round and 15-20 minutes for the other two rounds"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "10 students were selected for this round. This was a face to face technical round,  all major topics of data structures were covered  thoroughly, interviewer seeks optimal solutions and focuses on time and space complexity of proposed solution as well.ensure all test cases, boundary cases etc are covered in your solutions as well."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "This is an HR and technical round combined that will cover system design concepts as well. Prepare regularly asked HR questions well. Confidence and body language is key on each and every interview focus on that as well."
+                }
+            ]
+        },
+        {
+            "name": "Jigyasa Khaneja",
+            "image": "https://quicksort.netlify.com/images/walmart.jpg",
+            "position": "Walmart SDE Intern",
+            "no": "#myModal13",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "1 coding questions which was of 60 marks and rest MCQs based on DBMS and OS etc. The coding question was based on strings and could also be solved using brute force approach. The complexity could be improved using hashmaps and priority queues."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "The next round was an HR interview in which they asked general questions about any type of work experience you have or volunteering experience. Also any projects you have done. It wasn’t a technical round so they didn’t go into the details of it; just a brief description would also work. It’s important to be thorough with your resume and answer confidently in this round."
+                }
+            ]
+        },
+        {
+            "name": "Anonymous",
+            "image": "https://quicksort.netlify.com/images/Microsoft.png",
+            "position": "Microsoft SDE Intern ",
+            "no": "#myModal14",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "I got to skip the online round and group fly because I was a Codess mentee.\nInterview round 1 - \nQ1. Write code to print a matrix in spiral form.\nQ2. I was asked to explain my project."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Round 2 was purely HR round where very general questions were asked. I was quite lucky that only 2 rounds happened for my interview. This was not the case for non Codess students. So I would suggest all 2nd year students to participate in the Codess program. I would like to add that I didn't expect the process to be this simple and in reality, it was not like this for most others. A lot depends on your interviewer and luck so be prepared for the worst."
+                }
+            ]
+        },
+        {
+            "name": "Mansi Kathuria",
+            "image": "https://quicksort.netlify.com/images/mansi.jpg",
+            "position": "Intuit SDE Intern",
+            "no": "#myModal15",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "The first round was an online coding test, conducted on the Hackerearth coding platform.There were 4 coding questions of 200 marks to be solved in a time span of 90 mins.\nAll the questions were worded and lengthy, so I would suggest not to waste time deciphering a question too long and go on to attempt other questions and return to the previous one once you are through with them.\nQuestion 1 (75 marks, 10 test cases) : A string 's' was provided comprising of numbers and a number 'c' where the number of distinct permutations of had to be answered with the constraint that the number at every index of 's' should be less than 'c'.For Example - s = \"12345678\", c = 1234567; Output - 64Approach : a simple application of permutations and combinations would suffice and we know by observation that the number of permutations will be 2^n; n being the length of 's'. Repetition of numbers in 's' should also be considered.\nQuestion 2 (50 marks, 3 test cases) : An array A is provided and we need to return the number of operations to make it equal to an array B which is also given. The operation involved decrementing selected elements in array A. Approach : this was a simple question based on greedy algorithmic approach.\nQuestion 3 (25 marks, 8 test cases) : An array listing the elements of a binary tree and its subsequent child nodes. If an array element is at index 'i', it's children will be at indexes '2i' and '2i+1' respectively. The tree is repeated from its root till any random element of the tree. We need to identify the original, unrepeated tree by eliminating the additional elements.Approach : the repeated elements can either be identified by checking repetition of elements through data values stored in a hash map. I used the depth first search algorithm and an auxiliary array to check visited data elements.Once we iterate over a visited element again, it suggests repetition has been detected.\nQuestion 4 (50 marks, 10 test cases) : A numeric matrix is provided and a value 'k'. We need to ascertain a value 'x' to be subtracted from any submatrix such that its sum yields the value 'k'.\nApproach : this question is of dynamic programming and required implementing kadane's algorithm as well.\nThe overall coding test was of difficult complexity, those who were able to solve one and a half questions were shortlisted for the next round.14 students were shortlisted for the next round."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "The second round was a group fly. Intuit generally does not conduct a group fly and this was the first time it did.Only one question was given to be solved in 1 hour.Given a 6x7 matrix, design the connect-4 game for it. It is a two player game comprising of red and yellow coins to be fixed on the matrix. If 4 contiguous dots of the same color is obtained horizontally, vertically or diagonally, the player wins. It is guaranteed that a player is going to win.Input is provided in the form of a string for each player. The output specifies which player wins.For this problem, the following aspects were essential for further shortlisting:\n1. clean code\n2. modularity\n3. layout of code\n4. inclusion of comments ( I also kept an additional sheet to explain all the design features and constraints )\n5. a solution better than the brute force approach was expected. Some seniors used DFS to solve the question. I used auxiliary arrays for horizontal, vertical, left and right diagnol storage to keep count of contiguous connected dots.\n6. interaction with the mentors to explain approach and clear doubts was equally important.\nIn addition to this, our resume and a passport sized photograph was asked to be attached along with the solution sheet.6 students were shortlisted for the interviews.\nTry practising coding questions on paper. There is a great deal of difference between implementing questions on a compiler and a paper. It also helps during the F2F interview rounds."
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "Initially 2 rounds had to be conducted. Due to the shortage of time, only one technical interview was conducted.There were 2 interviewers in my case and it lasted approximately 70 mins.\nThe interviewers were very friendly and amiable. They greeted me warmly and we got started.One of them asked me about the day and if I was comfortable, given the entire process was very long. The round started with them asking about all projects mentioned in my resume. They asked about design features, implementation and usage of frameworks.I was also asked how would I associate improvement in those projects.\nThen the interviewer asked me about my favorite data structure and recursion, what are it's pros and cons in competitive programming. I answered binary trees and all traversals of those were asked about.After thorough discussion on this, we proceeded towards ds and algo. First they asked me to find the post order traversal of a binary tree, given its inorder and preorder traversal. We discussed the approach and I was asked to code the solution function.\nNext they only asked the approach in the next coding question. An array and a sum are given. Find all pairs and return their indexes that add up to the given sum. The indexes should not repeat. All approaches right from the brute force to the efficient were discussed. They did not want additional space when I mentioned hash maps, after which I suggested a circular array by using modulus on indexes and fast, slow pointers to find the pairs.\nThe second interviewer began asking questions after this. He asked about oops concepts, pointers in c++, static variables and virtual functions. In dbms he asked me about normalisation, normal forms, schemas, nosql databases (as they were mentioned in my resume) and their features.He also asked me about design concepts of load balancing, database sharding and implementation of hashes in real world, concept of cloud storage. At last a simple question on operating system process was asked.The round ended with me asking them queries I had in mind. This round was fairly easier compared to the other two.\nAt last, 3 people were selected for the internship. "
+                }
+            ]
+        },
+        {
+            "name": "Mansi Goel",
+            "image": "https://quicksort.netlify.com/images/goldman.jpg",
+            "position": "Goldman Sachs SDE Intern",
+            "no": "#myModal16",
+            "experience": [
+                {
+                    "type": "head",
+                    "text": "Round 1"
+                },
+                {
+                    "type": "para",
+                    "text": "In the first round whole test was divided into three sections.\n1st section had 3 coding questions. ( 1st question was based on dfa. 2nd question was a medium level array question and 3rd question was a pure competitive type question)\n2nd section had 15 mcq. Some questions were based on maths(differential eq, probability) , OS, dp and some were output questions in which code snippet in C language was given and correct output had to be marked\n3rd section had 2 essay type questions. Different situations were given and we had to write the solution considering ourselves in the situation. "
+                },
+                {
+                    "type": "head",
+                    "text": "Round 2"
+                },
+                {
+                    "type": "para",
+                    "text": "Firstly the interviewer asked me about my project, then a puzzle. She then asked some coding questions.\nQ1. Valid parenthesis (direct stack based question)\nQ2. Temple offering (present on gfg dp question)\nQ3. Variation of next greater element\nQ4. Maximum sum subarray\nQ5. Min element of stack in O(1) time and space\nQ6. Longest increasing subsequence \nQ7. Expression tree\n"
+                },
+                {
+                    "type": "head",
+                    "text": "Round 3"
+                },
+                {
+                    "type": "para",
+                    "text": "It was a hr cum technical round.\nHe asked me why GS and any future plans then he gave me  2 questions for which I had to write proper code on paper. \nQ1- Print minimum size subset whose product is equal to the given target(array may also include negative elements and 0)\nQ2- Minimum sum subsequence"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "services": [
+        {
+            "service": "Mock Interviews",
+            "description": "As the adage goes – 'Practice makes a man perfect!' QuickSort gives you a platform to practice your interviewing skills in an environment similar to an actual interview.",
+            "image": "https://quicksort.netlify.com/images/image-1.jpg"
+        },
+        {
+            "service": "Coding Tests",
+            "description": "QuickSort is built on the premise that practice & preparation are crucial. Prime your coding skills by accessing the best hand-picked and curated content covering problems from all domains.",
+            "image": "https://quicksort.netlify.com/images/image-2.jpg"
+        },
+        {
+            "service": "Feedback",
+            "description": "QuickSort provides you comprehensive feedback based on your performance underlining your strengths and personalized tips on improving weaker areas. Get in-depth analysis of your interview style and tips to help you improve.",
+            "image": "https://quicksort.netlify.com/images/image-3.jpg"
+        }
+    ],
+    "benefits": [
+        {
+            "benefit": "Reduce Stress & Anxiety",
+            "description": "Doubts about handling stressful situations during interviews & performance pressure may create anxiety. Get over your nerves with mock interviews."
+        },
+        {
+            "benefit": "Boost Confidence",
+            "description": "Practicing Mock interviews & coding assessments with experienced programmers will improve your skills and boost confidence."
+        },
+        {
+            "benefit": "Save Time",
+            "description": "Attend mock interviews from anywhere- virtual/ face-to-face, eliminating the need & the costs associated with travel. Moreover, you save time!"
+        },
+        {
+            "benefit": "Constructive Feedback",
+            "description": "Get in-depth analysis of your interview style and tips to help you improve areas where you may have weaknesses."
+        },
+        {
+            "benefit": "Interview Experiences",
+            "description": "Catering 50+ interview experineces with tech-giants like Google, Microsoft to familiarise you with the skills & competencies needed for the job."
+        },
+        {
+            "benefit": "Behavioural Questions",
+            "description": "Mastering questions not only from technical domain but behavioural questions like -'Tell me about yourself.' gives you an edge."
+        }
+    ],
+    "college_info": {
+        "name": "IGDTUW"
+    },
+    "extra": {
+        "video_url": "https://player.vimeo.com/video/394447193",
+        "video_description": "Did you check out the trending webinar on Codess yet? Watch it now!"
+    }
+}

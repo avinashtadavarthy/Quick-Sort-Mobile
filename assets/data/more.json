@@ -1,0 +1,75 @@
+{
+    "options_list": [
+        "Quick Explore",
+        "About",
+        "Our Team"
+    ],
+    "quick_explore_page": {
+        "title": "Cheers To The Girl Power At IGDTUW!",
+        "subtitle": "THE EMPOWERED WOMAN IS POWERFUL BEYOND MEASURE AND BEAUTIFUL BEYOND DESCRIPTION.",
+        "content": [
+            {
+                "type": "video",
+                "caption": "Team QuickSort celebrates the girl power @IGDTU!",
+                "date": "March 08, 2020",
+                "time": "12:00 AM",
+                "url": "https://player.vimeo.com/video/397495454",
+                "thumbnail_url": "https://i.vimeocdn.com/video/864716473"
+            },
+            {
+                "type": "video",
+                "caption": "Check out the trending webinar on Codess!",
+                "date": "February 28, 2020",
+                "time": "12:00 PM",
+                "url": "https://player.vimeo.com/video/394447193",
+                "thumbnail_url": "https://i.vimeocdn.com/video/860323813"
+            }
+        ]
+    },
+    "about_page": {
+        "start_image": "https://quicksort.netlify.com/images/about.jpg",
+        "end_image": "https://quicksort.netlify.com/images/pipeline.jpg",
+        "content": "Interviews are crucial moments in one’s career. Theoretical knowledge of interview questions isn't enough when you actually face an interview.\n\nAs the adage goes – 'Practice makes a man perfect!' QuickSort gives you a platform to practice your interviewing and coding skills in an environment similar to an actual interview. Familiarizing yourself with the test pattern, interview environment and receiving feedback on your interviewing skills beforehand gives you an edge over your peers.\n\nQuickSort is built on the premise that practice & preparation are crucial to get over your anxieties when attending an interview. Prime your coding skills by accessing the best hand-picked and curated content covering problems from all domains. QuickSort provides you comprehensive feedback based on your performance underlining your strengths and personalized tips on improving weaker areas."
+    },
+    "our_team_page": {
+        "team_members": [
+            {
+                "image": "https://quicksort.netlify.com/images/ish.jpg",
+                "info": "CSE, Final Year",
+                "name": "Ishani Pandey",
+                "linkedin_url": "https://www.linkedin.com/in/ishani-pandey"
+            },
+            {
+                "image": "https://quicksort.netlify.com/images/san.jpg",
+                "info": "CSE, Pre-Final Year",
+                "name": "Sanjana Goel",
+                "linkedin_url": "https://www.linkedin.com/in/sanjana-goel14"
+            },
+            {
+                "image": "https://quicksort.netlify.com/images/ma.jpg",
+                "info": "CSE, Pre-Final Year",
+                "name": "Mansi Kathuria",
+                "linkedin_url": "https://www.linkedin.com/in/mansi-kathuria-881777167"
+            },
+            {
+                "image": "https://quicksort.netlify.com/images/anch.jpg",
+                "info": "CSE, Final Year",
+                "name": "Aanchal Agarwal",
+                "linkedin_url": "https://www.linkedin.com/in/aanchal1308"
+            },
+            {
+                "image": "https://quicksort.netlify.com/images/pallavi.jpg",
+                "info": "CSE, Pre-Final Year",
+                "name": "Pallavi Bishnoi",
+                "linkedin_url": "https://www.linkedin.com/in/pallavi-bishnoi-563702165"
+            },
+            {
+                "image": "https://quicksort.netlify.com/images/anjali.jpg",
+                "info": "CSE, Final Year",
+                "name": "Anjali Kumari",
+                "linkedin_url": "https://www.linkedin.com/in/anjali-kumari-351751167"
+            }
+        ],
+        "text": "Want to join QuickSort ?\nDrop us an email at quicksort.igdtuw@gmail.com"
+    }
+}

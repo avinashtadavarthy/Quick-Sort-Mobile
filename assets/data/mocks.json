@@ -1,0 +1,53 @@
+{
+    "mock_interviews": {
+        "title": "Register Yourself for Mock Interviews",
+        "subtitle": "Accept the challenges so that you can feel the exhilaration of victory",
+        "image": "https://quicksort.netlify.com/images/laptop.jpg",
+        "form_link": "https://docs.google.com/forms/d/e/1FAIpQLSf5ZokuHcjyX3iP8qammjmOC1B6DnaTIyiJbX15EriozAR4lQ/viewform?embedded=true"
+    },
+    "mock_tests": {
+        "title": "",
+        "subtitle": "Prime your coding skills by accessing the best hand-picked and curated content covering problems from all domains.",
+        "contests": {
+            "title": "Check Our Upcoming Flagship Contests",
+            "subtitle": "",
+            "tests": [
+                {
+                    "type": "text",
+                    "image": "https://quicksort.netlify.com/images/contest.jpg",
+                    "text": "Get a chance to prepare, practice & ace your interview skills!"
+                }
+            ]
+        },
+        "past_tests": {
+            "title": "Check our Past Mock Tests",
+            "tests": [
+                {
+                    "type": "leaderboard",
+                    "image": "https://quicksort.netlify.com/images/contest6.jpg",
+                    "text": "Akshita Goyal\nShiva Singhal\nOjasvi Tyagi\nRhea Hooda\nAnanya Jain"
+                },
+                {
+                    "type": "leaderboard",
+                    "image": "https://quicksort.netlify.com/images/contest4.jpg",
+                    "text": "Shailza Singh\nMegha Gupta\nMuskan Verma\nSuniti Jain\nDivyasha Singh"
+                }
+            ]
+        },
+        "upcoming_tests": {
+            "title": "Check Out Our Coding Contests",
+            "tests": [
+                {
+                    "type": "leaderboard",
+                    "image": "https://quicksort.netlify.com/images/contest2.jpg",
+                    "text": "Akshita Goyal\nUrvi Goel\nNandini Mehta\nMehak Jain\nApoorva Gupta"
+                },
+                {
+                    "type": "text",
+                    "image": "https://quicksort.netlify.com/images/contest1.jpg",
+                    "text": "Get a chance to compete, win and showcase your coding skills!"
+                }
+            ]
+        }
+    }
+}
