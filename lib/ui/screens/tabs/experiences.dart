@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:quick_sort/ui/widgets/experiencesgrid.dart';
+import 'package:http/http.dart' as http;
 
 class Experiences extends StatefulWidget {
   @override
@@ -13,7 +14,10 @@ class _ExperiencesState extends State<Experiences> {
   List experiences;
 
   Future<String> loadJsonAsset() async {
-    return await rootBundle.loadString('assets/data/experiences.json');
+    var url = 'https://raw.githubusercontent.com/avinashtadavarthy/quickSortMobile/master/assets/data/experiences.json';
+    var response = await http.read(url);
+    return response;
+    //return await rootBundle.loadString('assets/data/experiences.json');
   }
 
   Future loadJson() async {

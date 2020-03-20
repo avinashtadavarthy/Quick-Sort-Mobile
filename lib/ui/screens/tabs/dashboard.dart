@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:quick_sort/ui/widgets/benefitsgrid.dart';
 import 'package:quick_sort/ui/widgets/servicescarousel.dart';
+import 'package:http/http.dart' as http;
 
 class Dashboard extends StatefulWidget {
   @override
@@ -13,7 +14,10 @@ class _DashboardState extends State<Dashboard> {
   List services, benefits;
 
   Future<String> loadJsonAsset() async {
-    return await rootBundle.loadString('assets/data/home.json');
+    var url = 'https://raw.githubusercontent.com/avinashtadavarthy/quickSortMobile/master/assets/data/home.json';
+    var response = await http.read(url);
+    return response;
+    //return await rootBundle.loadString('assets/data/home.json');
   }
 
   Future loadJson() async {

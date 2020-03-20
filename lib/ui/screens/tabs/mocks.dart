@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:quick_sort/ui/widgets/mockinterviews.dart';
 import 'package:quick_sort/ui/widgets/mocktests.dart';
+import 'package:http/http.dart' as http;
 
 class Mocks extends StatefulWidget {
   @override
@@ -14,7 +15,10 @@ class _MocksState extends State<Mocks> {
   List contests, pastTests, upcomingTests;
 
   Future<String> loadJsonAsset() async {
-    return await rootBundle.loadString('assets/data/mocks.json');
+    var url = 'https://raw.githubusercontent.com/avinashtadavarthy/quickSortMobile/master/assets/data/mocks.json';
+    var response = await http.read(url);
+    return response;
+    //return await rootBundle.loadString('assets/data/mocks.json');
   }
 
   Future loadJson() async {

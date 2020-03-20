@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:quick_sort/ui/screens/tabs/morescreens/about.dart';
 import 'package:quick_sort/ui/screens/tabs/morescreens/ourteam.dart';
 import 'package:quick_sort/ui/screens/tabs/morescreens/quickexplore.dart';
+import 'package:http/http.dart' as http;
 
 class More extends StatefulWidget {
   @override
@@ -15,7 +15,10 @@ class _MoreState extends State<More> {
   List optionsList;
 
   Future<String> loadJsonAsset() async {
-    return await rootBundle.loadString('assets/data/more.json');
+    var url = 'https://raw.githubusercontent.com/avinashtadavarthy/quickSortMobile/master/assets/data/more.json';
+    var response = await http.read(url);
+    return response;
+    //return await rootBundle.loadString('assets/data/more.json');
   }
 
   Future loadJson() async {
@@ -58,19 +61,22 @@ class _MoreState extends State<More> {
                                 Navigator.push(
                                     context,
                                     MaterialPageRoute(
-                                        builder: (context) => QuickExplore(pageData: quickExplorePage)));
+                                        builder: (context) => QuickExplore(
+                                            pageData: quickExplorePage)));
                                 break;
                               case "About":
                                 Navigator.push(
                                     context,
                                     MaterialPageRoute(
-                                        builder: (context) => About(pageData: aboutPage)));
+                                        builder: (context) =>
+                                            About(pageData: aboutPage)));
                                 break;
                               case "Our Team":
                                 Navigator.push(
                                     context,
                                     MaterialPageRoute(
-                                        builder: (context) => OurTeam(pageData: ourTeamPage)));
+                                        builder: (context) =>
+                                            OurTeam(pageData: ourTeamPage)));
                                 break;
                             }
                           },
@@ -81,11 +87,10 @@ class _MoreState extends State<More> {
                               color: Colors.white,
                               child: Center(
                                   child: Text(
-                                    '${optionsList[index]}',
-                                    style: TextStyle(
-                                        fontWeight: FontWeight.w500,
-                                        fontSize: 18),
-                                  )),
+                                '${optionsList[index]}',
+                                style: TextStyle(
+                                    fontWeight: FontWeight.w500, fontSize: 18),
+                              )),
                             ),
                           ),
                         ),
