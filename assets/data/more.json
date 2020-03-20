@@ -7,7 +7,16 @@
     "quick_explore_page": {
         "title": "Cheers To The Girl Power At IGDTUW!",
         "subtitle": "THE EMPOWERED WOMAN IS POWERFUL BEYOND MEASURE AND BEAUTIFUL BEYOND DESCRIPTION.",
+        "_comment": "To get the 'thumbnail_url' geberated by vimeo view the 'http://vimeo.com/api/v2/video/<video_id>.json' file",
         "content": [
+            {
+                "type": "video",
+                "caption": "Master your interviewing skills with QuickSort SUIT UP!",
+                "date": "March 19, 2020",
+                "time": "07:00 PM",
+                "url": "https://player.vimeo.com/video/398819907",
+                "thumbnail_url": "https://i.vimeocdn.com/video/866615245"
+            },
             {
                 "type": "video",
                 "caption": "Team QuickSort celebrates the girl power @IGDTU!",
