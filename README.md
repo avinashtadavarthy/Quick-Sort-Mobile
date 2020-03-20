@@ -1,5 +1,7 @@
 # QuickSort Mobile
 
+<img src="https://raw.githubusercontent.com/avinashtadavarthy/quickSortMobile/master/screenshots/homescreen.png" width="200"/>
+
 ## About the Organisation
 
 QuickSort is an organisation operated by the students of Indira Gandhi Delhi Technical University for Women (IGDTUW) to help students:
@@ -13,10 +15,13 @@ QuickSort Mobile is an effort to convert their online web platform into a mobile
 
 ## About the Mobile Application
 
-QuickSort Mobile was built using Flutter, a framework based on Dart by Google to help developers build mobile applications for Android and iOS simultaneously with the same codebase. The application was built with simple re-usable UI components accessible via the lib/widgets folder.
+QuickSort Mobile was built using Flutter, a framework based on Dart by Google to help developers build mobile applications for Android and iOS simultaneously with the same codebase. The application:
+
+- Was built with simple re-usable UI components accessible via the lib/widgets folder.
+- Reads directly from json files without any helper classes (PODOs).
 
 
-## Getting Started
+## Getting Started with Flutter
 
 A few resources to get you started with Flutter:
 
